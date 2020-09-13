@@ -19,3 +19,8 @@
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/float_wrong.png">
            Данная операция работает некорректно.
            
+<h2/> 2. Console Game </h2>
+Программа предлагает пользователю отгадать случайное число. Если загаданное число больше введенного, на экран выводится "It's more!", если меньше, то "It's less!".
+<h3/> Скриншот игрового процесса </h3>
+<img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/game%20proc.png">
+           Когда пользователь угадывает число, программа закрывается.
