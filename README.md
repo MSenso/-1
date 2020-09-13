@@ -32,7 +32,19 @@
            <h3/> Скриншот результата работы программы при вводе строк, содержащих не только буквенные символы</h3>
            <img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/symb%20hello.png">
             Как можно увидеть на скриншоте выше, программе на вход можно подавать строку из любых символов, а не только буквенных.
-<h2/> 4. Hello World </h2>
+<h2/> 4. Console Hello World </h2>
 Программа выводит на экран одну строку: "Hello, world!"
 <h3/> Скриншот результата работы программы </h3>
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/hello%20world.png">
+<h2/> 5. Console Sum </h2>
+Программе подается на вход два числа, после чего на экран выводится сумма введенных чисел и через пять секунд программа закрывается.
+<h3/> Скриншот результата сложения двух положительных чисел </h3>
+<img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/default%20sum.png">
+<h3/> Скриншот результата сложения двух отрицательных чисел </h3>
+<img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/-sum.png">
+<h3/> Скриншот результата попытки ввести первым вещественное число </h3>
+<img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/first_float.png">
+Результат некорректный.
+<h3/> Скриншот результата попытки ввести вторым вещественное число </h3>
+<img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/second_float.png">
+Результат некорректный.
