@@ -32,4 +32,7 @@
            <h3/> Скриншот результата работы программы при вводе строк, содержащих не только буквенные символы</h3>
            <img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/symb%20hello.png">
             Как можно увидеть на скриншоте выше, программе на вход можно подавать строку из любых символов, а не только буквенных.
-           
+<h2/> 4. Hello World </h2>
+Программа выводит на экран одну строку: "Hello, world!"
+<h3/> Скриншот результата работы программы </h3>
+<img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/hello%20world.png">
