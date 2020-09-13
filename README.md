@@ -1,7 +1,8 @@
 # Архитектура вычислительных систем, задание 1 (13.09.2020)
 Консольные программы на Ассемблере (FASM)
-<h2/> 1. Console Calculator </h2> (source: https://github.com/Nimtar/ConsoleCalculator)
-Программа выполняет простейшие арифметические операции над двумя целыми числами: сложение, вычитание, умножение и деление.
+<h2/> 1. Console Calculator </h2>
+(source: https://github.com/Nimtar/ConsoleCalculator)
+\nПрограмма выполняет простейшие арифметические операции над двумя целыми числами: сложение, вычитание, умножение и деление.
 <h3/> Скриншот результата сложения </h3>
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/%2B%20operation.png">
 <h3/> Скриншот результата вычитания </h3>
