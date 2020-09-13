@@ -2,7 +2,7 @@
 Консольные программы на Ассемблере (FASM)
 <h2/> 1. Console Calculator </h2>
 Программа выполняет простейшие арифметические операции над двумя целыми числами: сложение, вычитание, умножение и деление.
-### Скриншот результата сложения
+<h3/> Скриншот результата сложения </h3>
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/%2B%20operation.png">
 <h3/> Скриншот результата вычитания </h3>
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/-%20operation.png">
