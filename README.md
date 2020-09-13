@@ -24,3 +24,12 @@
 <h3/> Скриншот игрового процесса </h3>
 <img src= "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/game%20proc.png">
            Когда пользователь угадывает число, программа закрывается.
+
+<h2/> 3. Console Hello Program </h2>
+Программа принимает на вход две строки: имя и фамилию пользователя. После чего на экран выводится строка вида "Hello, <Name> <Surname>!", где Name – первая введенная строка (имя), Surname – вторая введенная строка (фамилия).
+           <h3/> Скриншот результата работы программы </h3>
+           <img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/hello.png">
+           <h3/> Скриншот результата работы программы при вводе строк, содержащих не только буквенные символы</h3>
+           <img src = "https://github.com/MSenso/Computer-System-Architecture-task-1/blob/master/symb%20hello.png">
+            Как можно увидеть на скриншоте выше, программе на вход можно подавать строку из любых символов, а не только буквенных.
+           
